@@ -1,0 +1,2 @@
+#!/bin/bash -x
+printf "Entering the ValidateService lifecycle hook" >> /var/log/syslog

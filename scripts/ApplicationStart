@@ -1,0 +1,2 @@
+#!/bin/bash -x
+printf "Entering the ApplicationStart lifecycle hook" >> /var/log/syslog
